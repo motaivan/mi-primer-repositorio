@@ -1,5 +1,5 @@
 <?php
 
-	echo "hola que hase gcm";
+	echo "hola que hase gcm mas pruebas";
 	
 ?>
